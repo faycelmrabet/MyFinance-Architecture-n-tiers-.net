@@ -35,3 +35,6 @@ C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyF
 C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Data.pdb
 C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.csprojResolveAssemblyReference.cache
+C:\Users\Faycel M'rabet\Documents\GitHub\MyFinance-Architecture-n-tiers-.net\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.exe.config
+C:\Users\Faycel M'rabet\Documents\GitHub\MyFinance-Architecture-n-tiers-.net\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.exe
+C:\Users\Faycel M'rabet\Documents\GitHub\MyFinance-Architecture-n-tiers-.net\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.pdb
